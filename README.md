@@ -1,58 +1,81 @@
-# 🚀 Sachin Majhee | EEE Engineer + AI & Flutter Developer
+# 🚀 Sachin Majhee
 
-**Electrical & Electronics Engineer** | M.E. High Voltage Engineering | Building intelligent apps, IoT solutions & open source tools
+**Electrical & Electronics Engineer | M.E. High Voltage Engineering**
+
+Building practical **Flutter + AI apps**, IoT solutions & open-source tools while creating content and exploring sustainable online income.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
 
-## About Me
+---
 
-I'm an Electrical & Electronics Engineer (B.E. + M.E. in High Voltage Engineering) passionate about combining hardware knowledge with modern software. I build practical AI-powered apps, Flutter mobile applications, and IoT projects while creating content to help others.
+## 🔧 About Me
 
-- 🔧 Currently developing Multi-AI Chat systems and productivity apps
-- 📱 Publishing Flutter apps on Google Play Store
-- 🎥 Creating YouTube content on tech, motivation & side income strategies (@successtips1350)
-- 💰 Exploring online income through apps, content & freelancing
+I'm an Electrical & Electronics Engineer (B.E. + M.E.) who loves bridging hardware knowledge with modern software development. I build real-world apps that solve problems in productivity, motivation, content creation, and IoT.
 
-## Skills & Expertise
+- 💻 Currently building AI-powered Flutter apps and multi-model tools
+- 📱 Publishing apps on Google Play Store
+- 🎥 Creating YouTube content on tech, productivity & side income (@successtips1350)
+- 💰 Focused on building online income streams alongside government job preparation
 
-**Core Strengths**
+## 👨‍💻 Skills & Tech Stack
+
+**Core Expertise**
 - Electrical Engineering (High Voltage, VLSI, Electric Drives, Signal Systems)
-- Flutter / Dart mobile app development
-- AI integration (LLMs, agents, multi-model chat)
-- IoT & Arduino/ESP32 projects
-- Full-stack concepts (React, Node.js, Python)
+- **Flutter / Dart** mobile app development
+- AI Integration (Grok, LLMs, agents, multi-model systems)
+- IoT & Embedded (Arduino, ESP32)
+- Full-stack fundamentals (React, Node.js, Python, Firebase)
 
-## Featured Projects
+**Tools & Platforms**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### [multi-ai-chat](https://github.com/sachin1024-92/multi-ai-chat)
-A versatile multi-AI chat interface for comparing models and boosting productivity.
+## 🚀 Featured Projects
 
-### Other Work
-- Flutter productivity & motivation apps (Play Store)
-- IoT monitoring systems (Arduino + Flutter)
-- Educational tools for engineering students
+### 🤖 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
+AI-powered faceless content & YouTube/Instagram automation platform.
 
-## Let's Collaborate or Support
+### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
+Advanced Flutter productivity app with smart shortcuts, widgets & focus modes.
 
-I'm open to:
-- Freelance projects (Flutter apps, IoT solutions, AI integrations)
-- Open source contributions & collaborations
-- Sponsorship for maintaining useful tools
+### 🥕 [Spud Heroes](https://github.com/sachin1024-92/spud-heroes)
+Fun veggie-themed endless runner / arena game built in Flutter.
 
-### Support My Work ❤️
+### 🚀 [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
+Grok-powered daily motivation, habit tracking & focus app with AI encouragement.
 
-If you find my projects useful, consider sponsoring me on GitHub:
+### 🤖 [Multi-AI Chat](https://github.com/sachin1024-92/multi-ai-chat)
+Side-by-side multi-model AI chat interface for productivity & comparison.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github)](https://github.com/sponsors/sachin1024-92)
+## 👋 Open to Opportunities
 
-Or buy me a coffee: [BuyMeACoffee](https://www.buymeacoffee.com/) | [Ko-fi](https://ko-fi.com/)
+- Freelance projects (Flutter apps, AI integrations, IoT solutions)
+- Collaborations on open-source tools
+- Sponsorships to maintain and grow these projects
+- Content collaborations (YouTube / tech education)
 
-## Connect
+## ❤️ Support My Work
 
-- 🎥 YouTube: [@successtips1350](https://www.youtube.com/@successtips1350)
-- LinkedIn / Instagram (search Sachin Majhee)
-- Email for collaborations
+Your sponsorship helps me dedicate more time to building useful tools and keeping them free or affordable.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
+
+Alternative ways to support:
+- [Buy Me a Coffee](https://www.buymeacoffee.com/)
+- [Ko-fi](https://ko-fi.com/)
+
+## 🎥 Connect With Me
+
+- **YouTube**: [@successtips1350](https://www.youtube.com/@successtips1350)
+- **Instagram / LinkedIn**: Search **Sachin Majhee**
+- Email available for serious collaborations
 
 ---
 
-*Building useful tools while preparing for government engineering roles and creating online income streams.*
+> *Building in public while balancing engineering prep and online income goals.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin1024-92&show_icons=true&theme=radical&hide=contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin1024-92&layout=compact&theme=radical)
