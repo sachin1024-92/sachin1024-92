@@ -1,33 +1,58 @@
-# 👋 Hi there, I'm Sachin! (sachin1024-92)
+# 🚀 Sachin Majhee | EEE Engineer + AI & Flutter Developer
+
+**Electrical & Electronics Engineer** | M.E. High Voltage Engineering | Building intelligent apps, IoT solutions & open source tools
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
 
-## 🚀 About Me
-Passionate developer specializing in **AI-powered applications**, full-stack development, and open-source contributions. I love turning ideas into intelligent, user-friendly software.
+## About Me
 
-- 🔭 Currently building **Multi-AI Chat** systems
-- 🌱 Exploring advanced LLMs, agentic AI, and scalable web apps
-- 💬 Open to collaborations on AI/ML projects
+I'm an Electrical & Electronics Engineer (B.E. + M.E. in High Voltage Engineering) passionate about combining hardware knowledge with modern software. I build practical AI-powered apps, Flutter mobile applications, and IoT projects while creating content to help others.
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+- 🔧 Currently developing Multi-AI Chat systems and productivity apps
+- 📱 Publishing Flutter apps on Google Play Store
+- 🎥 Creating YouTube content on tech, motivation & side income strategies (@successtips1350)
+- 💰 Exploring online income through apps, content & freelancing
 
-## 🌟 Featured Project
-**[multi-ai-chat](https://github.com/sachin1024-92/multi-ai-chat)**  
-A versatile multi-AI chat interface integrating multiple language models.
+## Skills & Expertise
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin1024-92&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin1024-92&layout=compact&theme=radical)
+**Core Strengths**
+- Electrical Engineering (High Voltage, VLSI, Electric Drives, Signal Systems)
+- Flutter / Dart mobile app development
+- AI integration (LLMs, agents, multi-model chat)
+- IoT & Arduino/ESP32 projects
+- Full-stack concepts (React, Node.js, Python)
 
-## 📫 Let's Connect
-- Open for opportunities and collaborations
-- Star my repos if you find them useful!
+## Featured Projects
+
+### [multi-ai-chat](https://github.com/sachin1024-92/multi-ai-chat)
+A versatile multi-AI chat interface for comparing models and boosting productivity.
+
+### Other Work
+- Flutter productivity & motivation apps (Play Store)
+- IoT monitoring systems (Arduino + Flutter)
+- Educational tools for engineering students
+
+## Let's Collaborate or Support
+
+I'm open to:
+- Freelance projects (Flutter apps, IoT solutions, AI integrations)
+- Open source contributions & collaborations
+- Sponsorship for maintaining useful tools
+
+### Support My Work ❤️
+
+If you find my projects useful, consider sponsoring me on GitHub:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github)](https://github.com/sponsors/sachin1024-92)
+
+Or buy me a coffee: [BuyMeACoffee](https://www.buymeacoffee.com/) | [Ko-fi](https://ko-fi.com/)
+
+## Connect
+
+- 🎥 YouTube: [@successtips1350](https://www.youtube.com/@successtips1350)
+- LinkedIn / Instagram (search Sachin Majhee)
+- Email for collaborations
 
 ---
-*"The best code is the one that solves real problems."*  
 
-![Visitor Count](https://visitcount.itswadesh.com/api/sachin1024-92)](https://github.com/sachin1024-92)
+*Building useful tools while preparing for government engineering roles and creating online income streams.*
