@@ -35,20 +35,26 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) who loves bridging hardwa
 
 ## 🚀 Featured Projects
 
-### 🤖 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
+### 🎥 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
 AI-powered faceless content & YouTube/Instagram automation platform.
 
 ### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
 Advanced Flutter productivity app with smart shortcuts, widgets & focus modes.
 
 ### 🥕 [Spud Heroes](https://github.com/sachin1024-92/spud-heroes)
-Fun veggie-themed endless runner / arena game built in Flutter.
+Fun veggie-themed endless runner / arena strategy game built in Flutter.
 
 ### 🚀 [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
 Grok-powered daily motivation, habit tracking & focus app with AI encouragement.
 
 ### 🤖 [Multi-AI Chat](https://github.com/sachin1024-92/multi-ai-chat)
 Side-by-side multi-model AI chat interface for productivity & comparison.
+
+### 📱 [Content Automation Tools](https://github.com/sachin1024-92/content-automation-tools)
+AI tools for titles, thumbnails, scripts & scheduling.
+
+### 💻 [IoT + Flutter Projects](https://github.com/sachin1024-92/iot-flutter-projects)
+Arduino/ESP32 + Flutter IoT monitoring systems.
 
 ## 👋 Open to Opportunities
 
@@ -75,7 +81,13 @@ Alternative ways to support:
 
 ---
 
-> *Building in public while balancing engineering prep and online income goals.*
+## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin1024-92&show_icons=true&theme=radical&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin1024-92&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sachin1024-92&theme=radical)
+
+---
+
+> *Building in public while balancing engineering prep and online income goals. Google's new AI can generate apps — I combine real engineering knowledge with practical app development and content creation.*
