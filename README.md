@@ -1,6 +1,6 @@
 # 🚀 Sachin Majhee
 
-**Electrical & Electronics Engineer | M.E. High Voltage Engineering**
+**Ph.D. Scholar @ IIITDM Jabalpur | Electrical & Electronics Engineer (M.E. High Voltage Engineering)**
 
 Building practical **Flutter + AI apps**, IoT solutions & open-source tools while creating content and exploring sustainable online income.
 
@@ -10,12 +10,21 @@ Building practical **Flutter + AI apps**, IoT solutions & open-source tools whil
 
 ## 🔧 About Me
 
-I'm an Electrical & Electronics Engineer (B.E. + M.E.) passionate about combining real hardware knowledge with modern software. I build useful apps in public and create content to help others do the same.
+I'm an Electrical & Electronics Engineer (B.E. + M.E.) and recently selected Ph.D. Scholar passionate about combining deep hardware/engineering knowledge with modern software development. I build useful apps in public, publish on the Play Store, and create content to help others level up their skills and income.
 
+- 🎓 Selected for Ph.D. program at IIITDM Jabalpur (June 2026)
 - 💻 Currently building AI-powered Flutter apps and automation tools
 - 📱 Publishing apps on Google Play Store
-- 🎥 YouTube content on tech, productivity & side income (@successtips1350)
+- 🎥 YouTube content on tech, productivity, EEE tools & side income (@successtips1350)
 - 💰 Focused on building multiple income streams while preparing for government engineering roles
+
+## 🎓 Education & Certifications
+
+- **Ph.D. Scholar** — Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur (selected June 2026)
+- **M.E. in High Voltage Engineering** — Jabalpur Engineering College (2024)
+  - M.Tech Research: Partial discharge analysis in capacitors using vulcanized rubber dielectric
+- **B.E. in Electrical & Electronics Engineering** — Takshshila Institute of Engineering and Technology (2020)
+- **VLSI Design Certification** — Maven Silicon, Bengaluru (2023)
 
 ## 👨‍💻 Skills & Tech Stack
 
@@ -36,38 +45,39 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) passionate about combinin
 ## 🚀 Featured Projects
 
 ### 🎥 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
-Faceless content & YouTube/Instagram automation platform.
+Faceless content & YouTube/Instagram automation platform. Built with Flutter + Firebase.
 
 ### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
-Advanced productivity app with smart shortcuts & focus modes.
+Advanced productivity app with smart shortcuts, widgets & focus modes.
 
 ### 🥕 [Spud Heroes](https://github.com/sachin1024-92/spud-heroes)
-Veggie-themed endless runner / arena game in Flutter.
+Fun veggie-themed endless runner / arena strategy game in Flutter. Kid-friendly gameplay.
 
 ### 🚀 [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
-Grok-powered motivation, habits & focus app.
+Grok-powered daily motivation, habits, focus timers & AI encouragement app.
 
 ### 🤖 [Multi-AI Chat](https://github.com/sachin1024-92/multi-ai-chat)
-Multi-model AI chat interface for productivity.
+Multi-model AI chat interface for productivity and comparison.
 
 ### 📱 [Content Automation Tools](https://github.com/sachin1024-92/content-automation-tools)
-AI toolkit for titles, thumbnails, scripts & scheduling.
+AI-powered toolkit for YouTube & Instagram creators (titles, thumbnails, scripts, scheduling).
 
 ### 💻 [IoT + Flutter Projects](https://github.com/sachin1024-92/iot-flutter-projects)
-Arduino/ESP32 + Flutter IoT monitoring systems.
+Arduino/ESP32 + Flutter IoT monitoring and control systems.
 
 ### 📊 [EEE Tools](https://github.com/sachin1024-92/eee-tools)
-Calculators and utilities for Electrical Engineering students.
+Calculators, scripts and utilities for Electrical & Electronics Engineering students and professionals.
 
 ### 🤖 [Flutter + AI Integration](https://github.com/sachin1024-92/flutter-ai-integration)
-Reusable patterns for connecting Flutter apps with LLMs.
+Reusable patterns and examples for connecting Flutter apps with Grok, OpenAI and other LLMs.
 
 ## 👋 Open to Opportunities
 
-- Freelance (Flutter apps, AI integrations, IoT projects)
-- Open source collaborations
-- Sponsorships & content partnerships
-- Speaking / workshops on building with AI
+- Freelance projects (Flutter apps, AI integrations, IoT solutions)
+- Open source collaborations & contributions
+- Sponsorships, content partnerships & brand deals
+- Speaking / workshops on AI app development, Flutter + hardware
+- Ph.D. research collaborations in applied engineering + intelligent systems
 
 ## ❤️ Support My Work
 
@@ -78,7 +88,7 @@ Reusable patterns for connecting Flutter apps with LLMs.
 ## 🎥 Connect
 
 - **YouTube**: [@successtips1350](https://www.youtube.com/@successtips1350)
-- Instagram / LinkedIn: Search **Sachin Majhee**
+- Instagram / LinkedIn: Search **Sachin Majhee** (Jabalpur)
 
 ---
 
@@ -93,4 +103,4 @@ Reusable patterns for connecting Flutter apps with LLMs.
 
 ---
 
-> *Google's new AI can generate apps. I combine real Electrical Engineering knowledge + practical Flutter development + content creation. That's my edge.*
+> *Google's new AI can generate apps. I combine real Electrical Engineering knowledge + practical Flutter development + content creation + advanced research. That's my edge.*
