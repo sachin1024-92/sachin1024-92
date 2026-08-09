@@ -1,28 +1,37 @@
 # 🚀 Sachin Majhee
 
-**Ph.D. Scholar @ IIITDM Jabalpur | Electrical & Electronics Engineer (M.E. High Voltage Engineering)**
+**Ph.D. Scholar (Ongoing) @ IIITDM Jabalpur | Electrical & Electronics Engineer (M.E. High Voltage Engineering)**
 
-Building practical **Flutter + AI apps**, IoT solutions & open-source tools while creating content and exploring sustainable online income.
+Building practical **Flutter + AI apps**, IoT solutions & open-source tools while advancing research and creating content for sustainable online income.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
 
 ---
 
+## 📅 Current Focus (August 2026)
+
+- Advancing Ph.D. research at IIITDM Jabalpur (Electronics & Communication Engineering)
+- Scaling Flutter + Grok/AI powered apps toward Play Store monetization
+- Content creation & automation tools for YouTube/Instagram (@successtips1350)
+- Building multiple income streams alongside academic research
+
+---
+
 ## 🔧 About Me
 
-I'm an Electrical & Electronics Engineer (B.E. + M.E.) and recently selected Ph.D. Scholar passionate about combining deep hardware/engineering knowledge with modern software development. I build useful apps in public, publish on the Play Store, and create content to help others level up their skills and income.
+I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who combines deep hardware/engineering knowledge with modern software development. I build useful apps in public, publish on the Play Store, and create content to help others level up their skills and income.
 
-- 🎓 Selected for Ph.D. program at IIITDM Jabalpur (June 2026)
-- 💻 Currently building AI-powered Flutter apps and automation tools
+- 🎓 Ph.D. Scholar at IIITDM Jabalpur (admitted June 2026)
+- 💻 Building AI-powered Flutter apps and automation tools in public
 - 📱 Publishing apps on Google Play Store
 - 🎥 YouTube content on tech, productivity, EEE tools & side income (@successtips1350)
-- 💰 Focused on building multiple income streams while preparing for government engineering roles
+- 💰 Focused on practical systems that generate real value while progressing in research
 
 ## 🎓 Education & Certifications
 
-- **Ph.D. Scholar** — Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur (selected June 2026)
+- **Ph.D. Scholar** — Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur (admitted June 2026)
 - **M.E. in High Voltage Engineering** — Jabalpur Engineering College (2024)
-  - M.Tech Research: Partial discharge analysis in capacitors using vulcanized rubber dielectric
+  - Research: Partial discharge analysis in capacitors using vulcanized rubber dielectric
 - **B.E. in Electrical & Electronics Engineering** — Takshshila Institute of Engineering and Technology (2020)
 - **VLSI Design Certification** — Maven Silicon, Bengaluru (2023)
 
@@ -50,7 +59,7 @@ Faceless content & YouTube/Instagram automation platform. Built with Flutter + F
 ### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
 Advanced productivity app with smart shortcuts, widgets & focus modes.
 
-### 🥕 [Spud Heroes](https://github.com/sachin1024-92/spud-heroes)
+### 🥔 [Spud Heroes](https://github.com/sachin1024-92/spud-heroes)
 Fun veggie-themed endless runner / arena strategy game in Flutter. Kid-friendly gameplay.
 
 ### 🚀 [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
@@ -99,8 +108,6 @@ Reusable patterns and examples for connecting Flutter apps with Grok, OpenAI and
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sachin1024-92&theme=radical)
 
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=sachin1024-92&show_icons=true&theme=radical&count_private=true)
-
 ---
 
-> *Google's new AI can generate apps. I combine real Electrical Engineering knowledge + practical Flutter development + content creation + advanced research. That's my edge.*
+> *Google's AI can generate apps. I combine real Electrical Engineering knowledge + practical Flutter development + content creation + advanced research. That's my edge.*
