@@ -2,14 +2,16 @@
 
 **Ph.D. Scholar (Ongoing) @ IIITDM Jabalpur | Electrical & Electronics Engineer (M.E. High Voltage Engineering)**
 
-Building practical **Flutter + AI apps**, IoT solutions & open-source tools while advancing research and creating content for sustainable online income.
+Working on **low-power chip design** in my Ph.D., and building practical **Flutter + AI apps**, IoT solutions & open-source tools alongside it.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&style=flat-square)](https://github.com/sponsors/sachin1024-92)
 
 ---
 
-## 📅 Current Focus (August 2026)
+## 📅 Current Focus (October 2026)
 
+- ⛏️ **Bitcoin mining chip optimization**: more hashes per watt from SHA-256 mining hardware
 - Advancing Ph.D. research at IIITDM Jabalpur (Electronics & Communication Engineering)
 - Scaling Flutter + Grok/AI powered apps toward Play Store monetization
 - Content creation & automation tools for YouTube/Instagram (@successtips1350)
@@ -53,6 +55,9 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who com
 
 ## 🚀 Featured Projects
 
+### ⛏️ Bitcoin Mining Chip Optimization *(in progress)*
+Exploring power-efficient SHA-256 hashing architectures for Bitcoin mining chips (ASICs), aiming for a better hash rate per watt (J/TH). Brings together my VLSI design training and Ph.D. work on low-power circuits.
+
 ### 🎥 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
 Faceless content & YouTube/Instagram automation platform. Built with Flutter + Firebase.
 
@@ -87,12 +92,13 @@ Reusable patterns and examples for connecting Flutter apps with Grok, OpenAI and
 - Sponsorships, content partnerships & brand deals
 - Speaking / workshops on AI app development, Flutter + hardware
 - Ph.D. research collaborations in applied engineering + intelligent systems
+- VLSI / low-power chip design collaborations
 
 ## ❤️ Support My Work
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
+My GitHub Sponsors profile is live! Sponsorships pay for the API credits, hosting and EDA/simulation time that keep these projects going, and give me more hours for open-source work and chip research.
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/) | [Ko-fi](https://ko-fi.com/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
 
 ## 🎥 Connect
 
