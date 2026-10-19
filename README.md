@@ -58,7 +58,7 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who com
 ### ⛏️ Bitcoin Mining Chip Optimization *(in progress)*
 Exploring power-efficient SHA-256 hashing architectures for Bitcoin mining chips (ASICs), aiming for a better hash rate per watt (J/TH). Brings together my VLSI design training and Ph.D. work on low-power circuits.
 
-### 🎥 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
+### 🎬 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
 Faceless content & YouTube/Instagram automation platform. Built with Flutter + Firebase.
 
 ### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
@@ -85,6 +85,9 @@ Calculators, scripts and utilities for Electrical & Electronics Engineering stud
 ### 🤖 [Flutter + AI Integration](https://github.com/sachin1024-92/flutter-ai-integration)
 Reusable patterns and examples for connecting Flutter apps with Grok, OpenAI and other LLMs.
 
+### 📚 [ITI Exam Prep](https://github.com/sachin1024-92/itiexamprep-com)
+Static website for ITI Exam Prep (itiexamprep.com) — NCVT CBT mocks, syllabus, trades, and SEO study guides.
+
 ## 👋 Open to Opportunities
 
 - Freelance projects (Flutter apps, AI integrations, IoT solutions)
@@ -100,7 +103,7 @@ My GitHub Sponsors profile is live! Sponsorships pay for the API credits, hostin
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
 
-## 🎥 Connect
+## 🎬 Connect
 
 - **YouTube**: [@successtips1350](https://www.youtube.com/@successtips1350)
 - Instagram / LinkedIn: Search **Sachin Majhee** (Jabalpur)
