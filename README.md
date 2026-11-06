@@ -2,20 +2,23 @@
 
 **Ph.D. Scholar (Ongoing) @ IIITDM Jabalpur | Electrical & Electronics Engineer (M.E. High Voltage Engineering)**
 
-Working on **low-power chip design** in my Ph.D., and building practical **Flutter + AI apps**, IoT solutions & open-source tools alongside it.
+Working on **AI accelerator architectures, hardware security, and neuromorphic hardware** in my Ph.D., and building practical **Flutter + AI apps**, IoT solutions & open-source tools alongside it.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&style=flat-square)](https://github.com/sponsors/sachin1024-92)
 
 ---
 
-## 📅 Current Focus (October 2026)
+## 📅 Current Focus (November 2026)
 
+- Advancing Ph.D. research at IIITDM Jabalpur (ECE): AI accelerator architectures, Hardware Security, Neuromorphic hardware
+- Attended Advanced Workshop on Metrology and Nano-Characterization Techniques at CeNSE/IISc Bangalore (26–29 Oct 2026)
+- Preparing for lab exam (Xilinx + Cadence, IT3E01) on 18 Nov 2026
 - ⛏️ **Bitcoin mining chip optimization**: more hashes per watt from SHA-256 mining hardware
-- Advancing Ph.D. research at IIITDM Jabalpur (Electronics & Communication Engineering)
 - Scaling Flutter + Grok/AI powered apps toward Play Store monetization
 - Content creation & automation tools for YouTube/Instagram (@successtips1350)
 - Building multiple income streams alongside academic research
+- Exploring industry roles in semiconductor / VLSI (Taiwan, Singapore, Japan, India)
 
 ---
 
@@ -32,10 +35,12 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who com
 ## 🎓 Education & Certifications
 
 - **Ph.D. Scholar** — Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur (admitted June 2026)
+  - Research: AI accelerator architectures / Hardware Security / Neuromorphic hardware (Supervisor: Dr. Pushpa Raikwal)
 - **M.E. in High Voltage Engineering** — Jabalpur Engineering College (2024)
   - Research: Partial discharge analysis in capacitors using vulcanized rubber dielectric
 - **B.E. in Electrical & Electronics Engineering** — Takshshila Institute of Engineering and Technology (2020)
 - **VLSI Design Certification** — Maven Silicon, Bengaluru (2023)
+- **Advanced Workshop** — Metrology and Nano-Characterization Techniques, CeNSE/IISc Bangalore (26–29 Oct 2026)
 
 ## 👨‍💻 Skills & Tech Stack
 
@@ -45,6 +50,7 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who com
 - AI Integration (Grok, LLMs, agents)
 - IoT & Embedded Systems (Arduino, ESP32)
 - Full-stack concepts + Firebase
+- Hardware Security & AI Accelerators (research focus)
 
 **Technologies**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -58,7 +64,7 @@ I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who com
 ### ⛏️ Bitcoin Mining Chip Optimization *(in progress)*
 Exploring power-efficient SHA-256 hashing architectures for Bitcoin mining chips (ASICs), aiming for a better hash rate per watt (J/TH). Brings together my VLSI design training and Ph.D. work on low-power circuits.
 
-### 🎬 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
+### 📹 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
 Faceless content & YouTube/Instagram automation platform. Built with Flutter + Firebase.
 
 ### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
@@ -88,6 +94,9 @@ Reusable patterns and examples for connecting Flutter apps with Grok, OpenAI and
 ### 📚 [ITI Exam Prep](https://github.com/sachin1024-92/itiexamprep-com)
 Static website for ITI Exam Prep (itiexamprep.com) — NCVT CBT mocks, syllabus, trades, and SEO study guides.
 
+### 🔒 [Security Testing App](https://github.com/sachin1024-92/security-testing-app)
+Practical app for security purpose testing: password strength analysis, secure hashing, input sanitization demos, and basic vulnerability awareness tools.
+
 ## 👋 Open to Opportunities
 
 - Freelance projects (Flutter apps, AI integrations, IoT solutions)
@@ -95,7 +104,8 @@ Static website for ITI Exam Prep (itiexamprep.com) — NCVT CBT mocks, syllabus,
 - Sponsorships, content partnerships & brand deals
 - Speaking / workshops on AI app development, Flutter + hardware
 - Ph.D. research collaborations in applied engineering + intelligent systems
-- VLSI / low-power chip design collaborations
+- VLSI / low-power chip design / AI accelerator collaborations
+- Industry roles in semiconductor / VLSI (Taiwan, Singapore, Japan, India)
 
 ## ❤️ Support My Work
 
