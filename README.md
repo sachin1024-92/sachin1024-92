@@ -14,7 +14,7 @@ I work on **AI accelerator architectures, hardware security, and neuromorphic ha
 - Ph.D. coursework & labs at IIITDM Jabalpur (ECE): Cadence lab end-sem **20 Nov**; theory end-sem week **23–30 Nov**
 - Research: AI accelerators · hardware security · neuromorphic / low-power circuits
 - **FloatNote** (Kotlin) — Play-ready floating notepad; closed-test / store launch next
-- **Lesster** Android suite — India-first utilities (exam photos, scam checks, ID vault, gig ledger, attendance…)
+- **Lesster** + **utility-apps PR #7** (Seeti, Bijli Guard, SafeShare, Ghar Clock) — India-first Kotlin utilities
 - **ITI Exam Prep** live content and CBT mocks at [itiexamprep.com](https://itiexamprep.com)
 - YouTube / Success Tips: [@successtips1350](https://www.youtube.com/@successtips1350)
 
@@ -68,6 +68,18 @@ Privacy-first utilities with public policies on GitHub Pages:
 | **Bunk Planner** | Attendance tracker + how many classes you can skip above 75% |
 
 Policies: [sachin1024-92.github.io/lesster-apps](https://sachin1024-92.github.io/lesster-apps/)
+
+### [Utility apps (PR #7)](https://github.com/sachin1024-92/daily-motivation-ai/pull/7) — Kotlin Compose suite
+Working code on branch `claude/utility-apps` (open PR, not merged — keep one product per Play listing):
+
+| App | What it does |
+|---|---|
+| **Seeti** | Counts pressure-cooker whistles; rings when the dish is done |
+| **Bijli Guard** | Bill estimate from meter readings; 150-unit subsidy warning (MP) |
+| **SafeShare ID** | Masks ID number/QR on a photo and stamps who the copy is for |
+| **Ghar Clock** | LPG cylinder life + home servicing reminders |
+
+CI builds APKs/AABs and emulator screenshots for all four.
 
 ### [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
 Flutter MVP: daily quotes, calendar-accurate habit streaks, focus timer, offline AI chat (Grok-ready). Same repo hosts FloatNote.
