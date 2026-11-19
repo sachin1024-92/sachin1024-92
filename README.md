@@ -1,126 +1,109 @@
-# 🚀 Sachin Majhee
+# Sachin Majhee
 
-**Ph.D. Scholar (Ongoing) @ IIITDM Jabalpur | Electrical & Electronics Engineer (M.E. High Voltage Engineering)**
+**Ph.D. Scholar @ IIITDM Jabalpur · Electrical & Electronics Engineer (M.E. High Voltage)**
 
-Working on **AI accelerator architectures, hardware security, and neuromorphic hardware** in my Ph.D., and building practical **Flutter + AI apps**, IoT solutions & open-source tools alongside it.
+I work on **AI accelerator architectures, hardware security, and neuromorphic hardware** in my Ph.D., and ship practical **Android / Flutter + AI apps**, IoT tools, and open-source engineering utilities alongside it.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&style=flat-square)](https://github.com/sponsors/sachin1024-92)
 
 ---
 
-## 📅 Current Focus (November 2026)
+## Current Focus (late November 2026)
 
-- Advancing Ph.D. research at IIITDM Jabalpur (ECE): AI accelerator architectures, Hardware Security, Neuromorphic hardware
-- Attended Advanced Workshop on Metrology and Nano-Characterization Techniques at CeNSE/IISc Bangalore (26–29 Oct 2026)
-- Preparing for lab exam (Xilinx + Cadence, IT3E01) on 18 Nov 2026
-- ⛏️ **Bitcoin mining chip optimization**: more hashes per watt from SHA-256 mining hardware
-- Scaling Flutter + Grok/AI powered apps toward Play Store monetization
-- Content creation & automation tools for YouTube/Instagram (@successtips1350)
-- Building multiple income streams alongside academic research
-- Exploring industry roles in semiconductor / VLSI (Taiwan, Singapore, Japan, India)
+- Ph.D. coursework & labs at IIITDM Jabalpur (ECE): Cadence lab end-sem **20 Nov**; theory end-sem week **23–30 Nov**
+- Research direction: AI accelerators · hardware security · neuromorphic / low-power circuits
+- Shipping the **Lesster** Android utility suite (privacy policies live; Play Store submissions in progress)
+- Advancing **Daily Motivation AI** + **FloatNote** toward Play Store release
+- Bitcoin mining chip exploration: more hashes per watt from SHA-256 hardware (VLSI angle)
+- Content & creator tools via YouTube [@successtips1350](https://www.youtube.com/@successtips1350)
 
 ---
 
-## 🔧 About Me
+## About
 
-I'm an Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who combines deep hardware/engineering knowledge with modern software development. I build useful apps in public, am working toward my first Play Store release, and create content to help others level up their skills and income.
+Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who pairs hardware/VLSI depth with shipping mobile apps and open tools in public.
 
-- 🎓 Ph.D. Scholar at IIITDM Jabalpur (admitted June 2026)
-- 💻 Building AI-powered Flutter apps and automation tools in public
-- 📱 Preparing my first Google Play Store release
-- 🎥 YouTube content on tech, productivity, EEE tools & side income (@successtips1350)
-- 💰 Focused on practical systems that generate real value while progressing in research
+- Ph.D. Scholar at IIITDM Jabalpur (admitted June 2026)
+- Building Android / Flutter apps and automation tools with real users in mind
+- YouTube: tech, productivity, EEE tools & side income ([@successtips1350](https://www.youtube.com/@successtips1350))
+- Open to VLSI / semiconductor roles and research collaborations (India, Taiwan, Singapore, Japan)
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- **Ph.D. Scholar** — Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur (admitted June 2026)
-  - Research: AI accelerator architectures / Hardware Security / Neuromorphic hardware (Supervisor: Dr. Pushpa Raikwal)
-- **M.E. in High Voltage Engineering** — Jabalpur Engineering College (2024)
-  - Research: Partial discharge analysis in capacitors using vulcanized rubber dielectric
-- **B.E. in Electrical & Electronics Engineering** — Takshshila Institute of Engineering and Technology (2020)
+- **Ph.D. Scholar** — IIITDM Jabalpur (admitted June 2026)  
+  Research: AI accelerator architectures / Hardware Security / Neuromorphic hardware (Supervisor: Dr. Pushpa Raikwal)
+- **M.E. High Voltage Engineering** — Jabalpur Engineering College (2024)  
+  Partial discharge analysis in capacitors using vulcanized rubber dielectric
+- **B.E. Electrical & Electronics Engineering** — Takshshila Institute of Engineering and Technology (2020)
 - **VLSI Design Certification** — Maven Silicon, Bengaluru (2023)
 - **Advanced Workshop** — Metrology and Nano-Characterization Techniques, CeNSE/IISc Bangalore (26–29 Oct 2026)
 
-## 👨‍💻 Skills & Tech Stack
+## Skills & Tech Stack
 
-**Core Strengths**
+**Core**
 - Electrical Engineering (High Voltage, VLSI, Electric Drives, Signal Systems)
-- **Flutter / Dart** mobile & cross-platform development
-- AI Integration (Grok, LLMs, agents)
-- IoT & Embedded Systems (Arduino, ESP32)
-- Full-stack concepts + Firebase
-- Hardware Security & AI Accelerators (research focus)
+- Android (Kotlin) & Flutter / Dart
+- AI integration (Grok / LLMs, agents)
+- IoT & Embedded (Arduino, ESP32)
+- Python tooling · Firebase · hardware-security research methods
 
-**Technologies**
+**Badges**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⛏️ Bitcoin Mining Chip Optimization *(in progress)*
-Exploring power-efficient SHA-256 hashing architectures for Bitcoin mining chips (ASICs), aiming for a better hash rate per watt (J/TH). Brings together my VLSI design training and Ph.D. work on low-power circuits.
+### [Lesster Apps](https://github.com/sachin1024-92/lesster-apps) — Android utility suite
+Seven India-first Android utilities with public privacy policies on GitHub Pages (Play Store–ready packaging): SahiPix, Scam Check, VaultMask, Gig Hisaab, Family Verify, Safe QR, Bunk Planner.  
+Policies: [sachin1024-92.github.io/lesster-apps](https://sachin1024-92.github.io/lesster-apps/)
 
-### 🚀 [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
-Flutter app with daily quotes, habit streaks, a focus timer and an AI motivation chat (Grok-ready, works offline).
+### [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
+Flutter MVP with daily quotes, habit streaks, focus timer, and AI motivation chat (Grok-ready, offline-first). CI builds a test APK on every push. Includes **FloatNote**, a floating Android notepad bubble.
 
-### 📊 [EEE Tools](https://github.com/sachin1024-92/eee-tools)
-Tested Python calculators for high voltage, signals, power systems and drives, usable from code or the command line.
+### [ITI Exam Prep](https://github.com/sachin1024-92/itiexamprep-com)
+Bilingual (English/Hindi) ITI prep site: trade hubs, practice questions, timed NCVT CBT-style mocks, notes and guides.
 
-### 📚 [ITI Exam Prep](https://github.com/sachin1024-92/itiexamprep-com)
-Bilingual (English/Hindi) site at itiexamprep.com: 15 trade hubs, 418 practice questions, timed NCVT CBT mock tests, notes and guides.
+### [EEE Tools](https://github.com/sachin1024-92/eee-tools)
+Tested pure-Python calculators for high voltage, signals, power systems, and electric drives — usable from code or the CLI.
 
-### 🔒 [Hardware Security Testing Toolkit](https://github.com/sachin1024-92/security-testing-app)
-Streamlit toolkit for defensive hardware-security study of AI accelerators: simulated power-leakage analysis, single-bit fault models, a secure-design checklist and configuration integrity hashing.
+### [Hardware Security Testing Toolkit](https://github.com/sachin1024-92/security-testing-app)
+Streamlit toolkit for defensive hardware-security study of AI accelerators: simulated power-leakage analysis, single-bit fault models, secure-design checklist, and configuration integrity hashing.
 
-### 📹 [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai)
-*(planned)* Faceless content & YouTube/Instagram automation platform in Flutter + Firebase.
+### Bitcoin mining chip optimization *(research / in progress)*
+Exploring power-efficient SHA-256 hashing architectures for mining ASICs (better J/TH). Ties VLSI training to Ph.D. low-power work.
 
-### 📝 [TodoMaster](https://github.com/sachin1024-92/todomaster)
-*(planned)* Productivity app with smart shortcuts, widgets & focus modes.
+### Coming next
+Scaffolded repos for [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai), [TodoMaster](https://github.com/sachin1024-92/todomaster), [Spud Heroes](https://github.com/sachin1024-92/spud-heroes), [Multi-AI Chat](https://github.com/sachin1024-92/multi-ai-chat), [Content Automation Tools](https://github.com/sachin1024-92/content-automation-tools), [IoT + Flutter](https://github.com/sachin1024-92/iot-flutter-projects), and [Flutter + AI patterns](https://github.com/sachin1024-92/flutter-ai-integration) — README placeholders until real code lands.
 
-### 🥔 [Spud Heroes](https://github.com/sachin1024-92/spud-heroes)
-*(planned)* Veggie-themed endless runner / arena strategy game in Flutter.
+## Open to
 
-### 🤖 [Multi-AI Chat](https://github.com/sachin1024-92/multi-ai-chat)
-*(planned)* Multi-model AI chat interface for productivity and comparison.
+- Freelance Flutter / Android / AI-integration work
+- Open-source collaborations
+- Sponsorships & content partnerships
+- Ph.D. research collaborations (AI accelerators, hardware security, neuromorphic)
+- VLSI / low-power / semiconductor industry roles
 
-### 📱 [Content Automation Tools](https://github.com/sachin1024-92/content-automation-tools)
-*(planned)* AI toolkit for YouTube & Instagram creators (titles, thumbnails, scripts, scheduling).
+## Support
 
-### 💻 [IoT + Flutter Projects](https://github.com/sachin1024-92/iot-flutter-projects)
-*(planned)* Arduino/ESP32 + Flutter IoT monitoring and control systems.
-
-### 🤖 [Flutter + AI Integration](https://github.com/sachin1024-92/flutter-ai-integration)
-*(planned)* Patterns and examples for connecting Flutter apps with Grok, OpenAI and other LLMs.
-
-## 👋 Open to Opportunities
-
-- Freelance projects (Flutter apps, AI integrations, IoT solutions)
-- Open source collaborations & contributions
-- Sponsorships, content partnerships & brand deals
-- Speaking / workshops on AI app development, Flutter + hardware
-- Ph.D. research collaborations in applied engineering + intelligent systems
-- VLSI / low-power chip design / AI accelerator collaborations
-- Industry roles in semiconductor / VLSI (Taiwan, Singapore, Japan, India)
-
-## ❤️ Support My Work
-
-My GitHub Sponsors profile is live! Sponsorships pay for the API credits, hosting and EDA/simulation time that keep these projects going, and give me more hours for open-source work and chip research.
+GitHub Sponsors helps cover API credits, hosting, and EDA/simulation time.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
 
-## 🎬 Connect
+## Connect
 
 - **YouTube**: [@successtips1350](https://www.youtube.com/@successtips1350)
-- Instagram / LinkedIn: Search **Sachin Majhee** (Jabalpur)
+- **Lesster policies**: [github.io/lesster-apps](https://sachin1024-92.github.io/lesster-apps/)
+- Instagram / LinkedIn: search **Sachin Majhee** (Jabalpur)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin1024-92&show_icons=true&theme=radical&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin1024-92&layout=compact&theme=radical)
@@ -129,4 +112,4 @@ My GitHub Sponsors profile is live! Sponsorships pay for the API credits, hostin
 
 ---
 
-> *Google's AI can generate apps. I combine real Electrical Engineering knowledge + practical Flutter development + content creation + advanced research. That's my edge.*
+> *Most people either do pure research, pure apps, or pure content. I combine Electrical Engineering depth, shipping mobile products, and building in public — that's the edge.*
