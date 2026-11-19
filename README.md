@@ -2,7 +2,7 @@
 
 **Ph.D. Scholar @ IIITDM Jabalpur · Electrical & Electronics Engineer (M.E. High Voltage)**
 
-I work on **AI accelerator architectures, hardware security, and neuromorphic hardware** in my Ph.D., and ship practical **Android / Flutter + AI apps**, IoT tools, and open-source engineering utilities alongside it.
+I work on **AI accelerator architectures, hardware security, and neuromorphic hardware** in my Ph.D., and ship **privacy-first Android utilities**, Flutter apps, and open engineering tools alongside it.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin1024-92&color=brightgreen&style=flat-square)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&style=flat-square)](https://github.com/sponsors/sachin1024-92)
@@ -12,21 +12,20 @@ I work on **AI accelerator architectures, hardware security, and neuromorphic ha
 ## Current Focus (late November 2026)
 
 - Ph.D. coursework & labs at IIITDM Jabalpur (ECE): Cadence lab end-sem **20 Nov**; theory end-sem week **23–30 Nov**
-- Research direction: AI accelerators · hardware security · neuromorphic / low-power circuits
-- Shipping the **Lesster** Android utility suite (privacy policies live; Play Store submissions in progress)
-- Advancing **Daily Motivation AI** + **FloatNote** toward Play Store release
-- Bitcoin mining chip exploration: more hashes per watt from SHA-256 hardware (VLSI angle)
-- Content & creator tools via YouTube [@successtips1350](https://www.youtube.com/@successtips1350)
+- Research: AI accelerators · hardware security · neuromorphic / low-power circuits
+- **FloatNote** (Kotlin) — Play-ready floating notepad; closed-test / store launch next
+- **Lesster** Android suite — India-first utilities (exam photos, scam checks, ID vault, gig ledger, attendance…)
+- **ITI Exam Prep** live content and CBT mocks at [itiexamprep.com](https://itiexamprep.com)
+- YouTube / Success Tips: [@successtips1350](https://www.youtube.com/@successtips1350)
 
 ---
 
 ## About
 
-Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who pairs hardware/VLSI depth with shipping mobile apps and open tools in public.
+Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar. I pair hardware/VLSI depth with shipping small, offline-capable mobile products — most of them keep data on-device and stay under a tight APK budget.
 
 - Ph.D. Scholar at IIITDM Jabalpur (admitted June 2026)
-- Building Android / Flutter apps and automation tools with real users in mind
-- YouTube: tech, productivity, EEE tools & side income ([@successtips1350](https://www.youtube.com/@successtips1350))
+- Android (Kotlin) + Flutter apps built with Play / FOSS flavours, AdMob + Billing, CI-signed AABs
 - Open to VLSI / semiconductor roles and research collaborations (India, Taiwan, Singapore, Japan)
 
 ## Education & Certifications
@@ -41,49 +40,53 @@ Electrical & Electronics Engineer (B.E. + M.E.) and Ph.D. Scholar who pairs hard
 
 ## Skills & Tech Stack
 
-**Core**
-- Electrical Engineering (High Voltage, VLSI, Electric Drives, Signal Systems)
-- Android (Kotlin) & Flutter / Dart
-- AI integration (Grok / LLMs, agents)
-- IoT & Embedded (Arduino, ESP32)
-- Python tooling · Firebase · hardware-security research methods
-
-**Badges**
+**How I ship apps (from the working codebases)**  
+Kotlin · Views + Material 3 · minSdk 26 / targetSdk 36 · `play` + `foss` product flavours · R8 minify · GitHub Actions → APK/AAB · fastlane store metadata · secret-scan CI · Photo Picker / SAF (no broad storage permission)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## Featured Projects
 
-### [Lesster Apps](https://github.com/sachin1024-92/lesster-apps) — Android utility suite
-Seven India-first Android utilities with public privacy policies on GitHub Pages (Play Store–ready packaging): SahiPix, Scam Check, VaultMask, Gig Hisaab, Family Verify, Safe QR, Bunk Planner.  
+### [FloatNote](https://github.com/sachin1024-92/daily-motivation-ai/tree/main/floating-notepad) — floating notepad for Android
+Native Kotlin bubble that floats over every app, autosaves on every keystroke, and never sends notes off-device. Play flavour: one list-screen AdMob banner + optional one-time supporter tips; FOSS flavour: no Google SDKs, no Internet permission. CI builds APK, AAB, and FOSS APK; store listing + privacy policy live in-repo. **v1.2.0**, package `io.github.sachin102492.floatnote`.
+
+### [Lesster Apps](https://github.com/sachin1024-92/lesster-apps) — India-first Android utilities
+Privacy-first utilities with public policies on GitHub Pages:
+
+| App | What it does |
+|---|---|
+| **SahiPix** | Exam-form photo / signature / doc kit (exact KB & dimensions) |
+| **Scam Check** | On-device risk check for suspicious messages (EN / Hindi / Hinglish) |
+| **VaultMask** | Encrypted offline ID vault with Aadhaar masking |
+| **Gig Hisaab** | Delivery / ride earnings, fuel & net pay tracker |
+| **Family Verify** | Safe-word + guidance against voice-clone / “digital arrest” scams |
+| **Safe QR** | QR / UPI scan with scam-pattern checks before you pay |
+| **Bunk Planner** | Attendance tracker + how many classes you can skip above 75% |
+
 Policies: [sachin1024-92.github.io/lesster-apps](https://sachin1024-92.github.io/lesster-apps/)
 
 ### [Daily Motivation AI](https://github.com/sachin1024-92/daily-motivation-ai)
-Flutter MVP with daily quotes, habit streaks, focus timer, and AI motivation chat (Grok-ready, offline-first). CI builds a test APK on every push. Includes **FloatNote**, a floating Android notepad bubble.
+Flutter MVP: daily quotes, calendar-accurate habit streaks, focus timer, offline AI chat (Grok-ready). Same repo hosts FloatNote.
 
 ### [ITI Exam Prep](https://github.com/sachin1024-92/itiexamprep-com)
-Bilingual (English/Hindi) ITI prep site: trade hubs, practice questions, timed NCVT CBT-style mocks, notes and guides.
+Live bilingual site for NCVT CTS prep: **15 trade hubs**, **418 practice questions** across **18 banks**, timed CBT mocks (options shuffled per attempt), notes and guides. Independent — not affiliated with NCVT/DGT.
 
 ### [EEE Tools](https://github.com/sachin1024-92/eee-tools)
-Tested pure-Python calculators for high voltage, signals, power systems, and electric drives — usable from code or the CLI.
+Pure-Python, dependency-free calculators for high voltage, signals, power systems, and electric drives — library + CLI, with clear errors for impossible inputs.
 
 ### [Hardware Security Testing Toolkit](https://github.com/sachin1024-92/security-testing-app)
-Streamlit toolkit for defensive hardware-security study of AI accelerators: simulated power-leakage analysis, single-bit fault models, secure-design checklist, and configuration integrity hashing.
-
-### Bitcoin mining chip optimization *(research / in progress)*
-Exploring power-efficient SHA-256 hashing architectures for mining ASICs (better J/TH). Ties VLSI training to Ph.D. low-power work.
+Streamlit + tested `hwsec` module for defensive AI-accelerator study: power-leakage simulation, single-bit fault models, secure-design checklist, integrity hashing.
 
 ### Coming next
-Scaffolded repos for [VitaCreate AI](https://github.com/sachin1024-92/vitacreate-ai), [TodoMaster](https://github.com/sachin1024-92/todomaster), [Spud Heroes](https://github.com/sachin1024-92/spud-heroes), [Multi-AI Chat](https://github.com/sachin1024-92/multi-ai-chat), [Content Automation Tools](https://github.com/sachin1024-92/content-automation-tools), [IoT + Flutter](https://github.com/sachin1024-92/iot-flutter-projects), and [Flutter + AI patterns](https://github.com/sachin1024-92/flutter-ai-integration) — README placeholders until real code lands.
+Scaffolded only (README placeholders): VitaCreate AI, TodoMaster, Spud Heroes, Multi-AI Chat, Content Automation Tools, IoT + Flutter, Flutter + AI patterns.
 
 ## Open to
 
-- Freelance Flutter / Android / AI-integration work
+- Freelance Android / Flutter / AI-integration work
 - Open-source collaborations
 - Sponsorships & content partnerships
 - Ph.D. research collaborations (AI accelerators, hardware security, neuromorphic)
@@ -91,14 +94,13 @@ Scaffolded repos for [VitaCreate AI](https://github.com/sachin1024-92/vitacreate
 
 ## Support
 
-GitHub Sponsors helps cover API credits, hosting, and EDA/simulation time.
-
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
 
 ## Connect
 
 - **YouTube**: [@successtips1350](https://www.youtube.com/@successtips1350)
 - **Lesster policies**: [github.io/lesster-apps](https://sachin1024-92.github.io/lesster-apps/)
+- **ITI Exam Prep**: [itiexamprep.com](https://itiexamprep.com)
 - Instagram / LinkedIn: search **Sachin Majhee** (Jabalpur)
 
 ---
@@ -112,4 +114,4 @@ GitHub Sponsors helps cover API credits, hosting, and EDA/simulation time.
 
 ---
 
-> *Most people either do pure research, pure apps, or pure content. I combine Electrical Engineering depth, shipping mobile products, and building in public — that's the edge.*
+> *Hardware research by day. Privacy-first Android utilities and open tools shipped in public. That combination is the point.*
